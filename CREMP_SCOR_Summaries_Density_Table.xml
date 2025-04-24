@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</origin>
+<pubdate>20230719</pubdate>
+<title>CREMP SCOR Summaries Density Table</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>St. Petersburg, FL</pubplace>
+<publish>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</publish>
+</pubinfo>
+<onlink>https://myfwc.com/research/habitat/coral/cremp/</onlink>
+<onlink>https://geodata.myfwc.com</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The primary goal of the Coral Reef Evaluation and Monitoring Project (CREMP) is to measure the status and trends of these communities to assist managers in understanding, protecting, and restoring the living marine resources of the Florida Keys National Marine Sanctuary. Data from the project will be used to determine (1) overall net increase or decrease in stony coral percent cover and stony coral species richness, (2) overall net change in measurable reef community parameters, (3) changes observed in individual reef communities with no overall change on a landscape scale (decreases in one location balanced by increases elsewhere) or changes that are linked to specific regions of the landscape. Each of these potential mechanisms of change will result in different spatial patterns of change. A Sanctuary-wide, rather than a single-location survey, is necessary to detect ecosystem change.</abstract>
+<purpose>This Sanctuary-wide project is documenting the status of reef habitats at 40 reef sites located within 5 of the 9 EPA Water Quality Segments in the Florida Keys National Marine Sanctuary. Over the duration of the project, the randomly located reefs in this project may show no net decline. Alternatively, some or all the reefs may show a net decline. Data for each successive sampling year will be compared with prior year's data to obtain a broader understanding of the dynamics of the FKNMS coral reef system. As the coral reef monitoring is integrated with the seagrass and water quality programs, the results can be used to focus research on determining causality and can be used to inform and evaluate management decisions. The Coral Reef/ Hardbottom Monitoring Project provides the first real opportunity in the Florida Keys to address these questions at the spatial scales required to detect large-scale patterns and discriminate between hypotheses. CREMP started in 1996 with 160 stations at 40 sites. In 2000/2001 a number of stations were dropped from the study, and several stations were dropped in subsequent years (this includes all of the hardbottom (HB) sites). Each site was reduced to between 2 and 4 stations. From 2001 to 2010 the data are reported using the 97 stations that were sampled during every year of that time period. Starting in 2011 reporting is done for 148 stations. This includes the original 136 stations plus the 12 patch reefs stations that were added.</purpose>
+<supplinf>The CREMP project started in 1996 with 160 stations at 40 sites. Since that time, there have been two major changes (1) In 2000/2001 a number of stations were dropped from the study, and several stations were dropped in subsequent years (this includes all of the hardbottom (HB) sites) based upon a statistical analysis. Each site was reduced to between 2 and 4 stations. (2) In 2011, FWC conducted another statistical analysis and decided to reverse their 2000/2001 decision and begin surveying all stations again, but the size of all stations were reduced. Also, in 2009 6 patch reef sites (2 stations each) were added to the study. The DRTO CREMP project started in 1999 with 3 sites being added. Eight (8) additional sites were added to this part of the survey in approximately 2004. The SECREMP data has been a continuous and consistent data collection effort that began in 2003. All 3 datasets (CREMP, DRTO CREMP, and SECREMP) use consistent methods and data reporting schemas. Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>19960101</begdate>
+<enddate>20210101</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>Annually</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-83.004273</westbc>
+<eastbc>-80.000655</eastbc>
+<northbc>27.181928</northbc>
+<southbc>24.411863</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+<themekey>biota</themekey>
+<themekey>environment</themekey>
+</theme>
+<theme>
+<themekt>FWC</themekt>
+<themekey>GIS</themekey>
+<themekey>national marine sanctuary</themekey>
+<themekey>assessment</themekey>
+<themekey>monitoring</themekey>
+<themekey>benthic</themekey>
+<themekey>biology</themekey>
+<themekey>corals</themekey>
+<themekey>algae</themekey>
+<themekey>coastal</themekey>
+<themekey>marine</themekey>
+</theme>
+<place>
+<placekt>FWC region</placekt>
+<placekey>FWC Region-South</placekey>
+</place>
+<place>
+<placekt>FL Waterbodies</placekt>
+<placekey>Middle Keys</placekey>
+<placekey>Biscayne Bay</placekey>
+<placekey>Upper Keys</placekey>
+<placekey>Atlantic Ocean</placekey>
+<placekey>Florida Bay</placekey>
+<placekey>Gulf of Mexico</placekey>
+<placekey>Lower Keys</placekey>
+</place>
+<place>
+<placekt>FWC Place</placekt>
+<placekey>Upper Keys</placekey>
+<placekey>east coast of Florida</placekey>
+<placekey>Biscayne National Park</placekey>
+<placekey>Florida Keys National Marine Sanctuary</placekey>
+<placekey>Middle Keys</placekey>
+<placekey>Key Largo</placekey>
+<placekey>southeast Florida</placekey>
+<placekey>Dry Tortugas National Park</placekey>
+<placekey>south Florida</placekey>
+<placekey>Florida</placekey>
+<placekey>Lower Keys</placekey>
+<placekey>Atlantic Ocean</placekey>
+<placekey>John Pennekamp Coral Reef State Park</placekey>
+<placekey>Florida Bay</placekey>
+<placekey>Biscayne Bay</placekey>
+<placekey>Gulf of Mexico</placekey>
+<placekey>Florida Keys</placekey>
+<placekey>Dry Tortugas</placekey>
+</place>
+<place>
+<placekt>FLcounties</placekt>
+<placekey>Palm Beach</placekey>
+<placekey>Broward</placekey>
+<placekey>Martin</placekey>
+<placekey>Monroe</placekey>
+<placekey>Miami-Dade</placekey>
+</place>
+</keywords>
+<accconst>Available without restriction</accconst>
+<useconst>FWC-FWRI must be credited. This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</cntorg>
+<cntper>GISLibrarian</cntper>
+</cntorgp>
+<cntpos>GIS Data Librarian</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>Fish and Wildlife Research Institute</address>
+<address>100 Eighth Avenue Southeast</address>
+<city>St. Petersburg</city>
+<state>Florida</state>
+<postal>33701</postal>
+</cntaddr>
+<cntvoice>727-896-8626</cntvoice>
+<cntfax>727-893-1679</cntfax>
+<cntemail>GISLibrarian@MyFWC.com</cntemail>
+</cntinfo>
+</ptcontac>
+<datacred>Florida Fish and Wildlife Conservation Commission - Fish and Wildlife Research Institute and the CREMP Team and Collaborators. The Coral Reef Evaluation and Monitoring Project (CREMP) in the Florida Keys is managed by the Corals Research Program and the Fish and Wildlife Research Institute and funded by the Environmental Protection Agency as part of the Florida Keys National Marine Sanctuary Water Quality Protection Program.</datacred>
+<secinfo>
+<secsys>FWRI-DC</secsys>
+<secclass>Unclassified</secclass>
+<sechandl>Available without restriction</sechandl>
+</secinfo>
+<native>ESRI ArcGIS 10.0.5.4400</native>
+</idinfo>
+<dataqual>
+<logic>These data appear to be logically consistent</logic>
+<complete>These data appear to be complete through the survey period.</complete>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Florida Fish and Wildlife Conservation Commission - Fish and Wildlife Research Institute</origin>
+<pubdate>unpublished material</pubdate>
+<title>CREMP_SCOR_Summaries_Density</title>
+<geoform>spreadsheet</geoform>
+<pubinfo>
+<pubplace>St. Petersburg, FL</pubplace>
+<publish>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>None</typesrc>
+<srccitea>CREMP_SCOR_Summaries_Density</srccitea>
+<srccontr>Summarized CREMP stony coral density data in Excel spreadsheet format. The density is the number of each coral species per meter found in each survey station. The counts are divided by the total area surveyed in square meters for each station. This data was converted to a geodatabase table and connected to the station locations dataset via relationship class.</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>3 Excel spreadsheets with the latest CREMP data were provided to GIS staff. A spatial database containing the 311 CREMP stations was created using the Latitude and Longitude values obtained from the tabular data. Relationship classes were then created to link the CREMP_Station spatial database and the 3 tables containng the collected data. Metadata was then created for the new spatial dataset.</procdesc>
+<procdate>20161214</procdate>
+</procstep>
+<procstep>
+<procdesc>Excel spreadsheets and text files with the latest CREMP data, DTCREMP data, and SECREMP data were provided to GIS staff. A spatial database was created, and a point feature class containing the 313 monitoring stations' locations was also created. Staff then created geodatabase tables from the provided spreadsheets and text files. In addition to these individual program tables, a set of combined tables representing data from all programs were created. Finally, relationship classes were created within the geodatabase to link the station locations and the geodatabase tables containng the collected data. Metadata was then created for the new spatial dataset.</procdesc>
+<procdate>20210701</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</cntorg>
+<cntper>GISLibrarian</cntper>
+</cntorgp>
+<cntpos>GIS Data Librarian</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>100 8th Avenue Southeast</address>
+<address>Fish and Wildlife Research Institute</address>
+<city>St. Petersburg</city>
+<state>Florida</state>
+<postal>33701</postal>
+</cntaddr>
+<cntvoice>727-896-8626</cntvoice>
+<cntfax>727-893-1679</cntfax>
+<cntemail>GISLibrarian@MyFWC.com</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Excel spreadsheets and text files with the latest CREMP data, DTCREMP data, and SECREMP data were provided to GIS staff. A spatial database was created, and a point feature class containing the 313 monitoring stations' locations was also created. Staff then created geodatabase tables from the provided spreadsheets and text files. In addition to these individual program tables, a set of combined tables representing data from all programs were created. Finally, relationship classes were created within the geodatabase to link the station locations and the geodatabase tables containng the collected data. Metadata was then created for the new spatial dataset.</procdesc>
+<procdate>20220801</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Florida Fish and Wildlife Conservation Commission - Fish and Wildlife Research Institute</cntorg>
+<cntper>GISLibrarian</cntper>
+</cntorgp>
+<cntpos>GIS Data Librarian</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>100 8th Avenue Southeast</address>
+<address>Fish and Wildlife Research Institute</address>
+<city>St. Petersburg</city>
+<state>FL</state>
+<postal>33701</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>727-896-8626</cntvoice>
+<cntemail>GISLibrarian@MyFWC.com</cntemail>
+<hours>8:00 am - 5:00 pm Eastern Time</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Excel spreadsheets and text files with the latest CREMP data, DTCREMP data, and SECREMP data were provided to GIS staff. A spatial database was created, and a point feature class containing the 313 monitoring stations' locations was also created. Staff then created geodatabase tables from the provided spreadsheets and text files. In addition to these individual program tables, a set of combined tables representing data from all programs were created. Finally, relationship classes were created within the geodatabase to link the station locations and the geodatabase tables containing the collected data. Metadata was then created for the new spatial dataset.</procdesc>
+<procdate>20230719</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>CREMP_SCOR_Summaries_Density</enttypl>
+<enttypd>The density or number of each stony coral species per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</enttypd>
+<enttypds>FWC-FWRI</enttypds>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Year</attrlabl>
+<attrdef>Sample Year</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Subregion</attrlabl>
+<attrdef>CREMP monitoring is separated into three project regions with different funding sources.  Each project region has designated subregions</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+<attrdomv>
+<edom>
+<edomv>DT</edomv>
+<edomvd>Dry Tortugas</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>LK</edomv>
+<edomvd>Lower Florida Keys</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MK</edomv>
+<edomvd>Middle Florida Keys</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>UK</edomv>
+<edomvd>Upper Florida Keys</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>DC</edomv>
+<edomvd>Dade County</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BC</edomv>
+<edomvd>Broward County</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>PB</edomv>
+<edomvd>Palm Beach County</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>MC</edomv>
+<edomvd>Martin County</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Habitat</attrlabl>
+<attrdef>CREMP monitoring is separated in several habitat areas.  These are different depending on the project region.</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+<attrdomv>
+<edom>
+<edomv>HB</edomv>
+<edomvd>Hard-bottom (FKNMS)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>BCP</edomv>
+<edomvd>Back Country Patch Reef (FKNMS)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>P</edomv>
+<edomvd>Patch Reef (FKNMS)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OS</edomv>
+<edomvd>Offshore Shallow (5-20') - FKNMS</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OD</edomv>
+<edomvd>Offshore Deep (35-60' - FKNMS)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>P</edomv>
+<edomvd>Patch or Pinnacle (Dry Tortugas)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>OD</edomv>
+<edomvd>Offshore Deep (Dry Tortugas)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>1R</edomv>
+<edomvd>1st ledge/reef (Southeast Florida)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>2R</edomv>
+<edomvd>2nd ledge/reef (Southeast Florida)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>3R</edomv>
+<edomvd>3rd ledge/reef (Southeast Florida)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NS</edomv>
+<edomvd>Nearshore (Southeast Florida)</edomvd>
+<edomvds>FWRI</edomvds>
+</edom>
+</attrdomv>
+<attrdomv>
+<edom>
+<edomv>NS</edomv>
+<edomvd>Nearshore (Southeast Florida)</edomvd>
+<edomvds>FWC-FWRI</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>SiteID</attrlabl>
+<attrdef>A unique site identifier for all CREMP sites.  These values do not overlap between project regions.</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Site_name</attrlabl>
+<attrdef>A site name.  Some of these are assigned by FWC-FWRI, whereas others particularly in the Florida Keys and Dry Tortugas, are official site names found on charts.</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>StationID</attrlabl>
+<attrdef>A unique identifier for all CREMP stations.  CREMP follows a nested design where each site has 2-4 survey stations.  This value is the Siteid plus the station number for that site.</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Acropora_cervicornis</attrlabl>
+<attrdef>The density or number of each Acropora cervicornis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Acropora_palmata</attrlabl>
+<attrdef>The density or number of each Acropora palmata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Acropora_prolifera</attrlabl>
+<attrdef>The density or number of each Acropora prolifera coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Agaricia_fragilis</attrlabl>
+<attrdef>The density or number of each Acropora fragilis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Agaricia_lamarcki</attrlabl>
+<attrdef>The density or number of each Agaricia lamarcki coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Cladocora_arbuscula</attrlabl>
+<attrdef>The density or number of each Cladocora arbuscula coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Colpophyllia_natans</attrlabl>
+<attrdef>The density or number of each Colpophyllia natans coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Dendrogyra_cylindrus</attrlabl>
+<attrdef>The density or number of each Dendrogyra cylindrus coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Dichocoenia_stokesii</attrlabl>
+<attrdef>The density or number of each Dichocoenia stokesii coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Diploria_labyrinthiformis</attrlabl>
+<attrdef>The density or number of each Diploria labyrinthiformis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Eusmilia_fastigiata</attrlabl>
+<attrdef>The density or number of each Eusmilia fastigiata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Favia_fragum</attrlabl>
+<attrdef>The density or number of each Favia fragum coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Helioseris_cucullata</attrlabl>
+<attrdef>The density or number of each Helioseris cucullata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Isophyllia_rigida</attrlabl>
+<attrdef>The density or number of each Isophyllia rigida coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Isophyllia_sinuosa</attrlabl>
+<attrdef>The density or number of each Isophyllia sinuosa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Madracis_aurentenra</attrlabl>
+<attrdef>The density or number of each Madracis aurentenra coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station).</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Madracis_decactis</attrlabl>
+<attrdef>The density or number of each Madracis decactis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Madracis_pharensis</attrlabl>
+<attrdef>The density or number of each Madracis pharensis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Madracis_scenaria</attrlabl>
+<attrdef>The density or number of each Madracis scenaria coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Madracis_sp</attrlabl>
+<attrdef>The density or number of each Madracis sp coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Manicina_areolata</attrlabl>
+<attrdef>The density or number of each Manicina areolata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Meandrina_meandrites</attrlabl>
+<attrdef>The density or number of each Meandrina meandrites coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Millepora_complanata</attrlabl>
+<attrdef>The density or number of each Millepora complanata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Montastraea_cavernosa</attrlabl>
+<attrdef>The density or number of each Montastraea cavernosa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mussa_angulosa</attrlabl>
+<attrdef>The density or number of each Mussa angulosa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mycetophyllia_aliciae</attrlabl>
+<attrdef>The density or number of each Mycetophyllia aliciae coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mycetophyllia_danaana</attrlabl>
+<attrdef>The density or number of each Mycetophyllia danaana coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mycetophyllia_ferox</attrlabl>
+<attrdef>The density or number of each Mycetophyllia ferox coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mycetophyllia_lamarckiana</attrlabl>
+<attrdef>The density or number of each Mycetophyllia lamarckiana coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Mycetophyllia_sp</attrlabl>
+<attrdef>The density or number of each Mycetophyllia sp coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Oculina_diffusa</attrlabl>
+<attrdef>The density or number of each Oculina diffusa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Oculina_robusta</attrlabl>
+<attrdef>The density or number of each Oculina robusta coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Orbicella_annularis_complex</attrlabl>
+<attrdef>The density or number of each Orbicella annularis complex coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Orbicella_faveolata</attrlabl>
+<attrdef>The density or number of each Orbicella faveolata coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Orbicella_franksi</attrlabl>
+<attrdef>The density or number of each Orbicella franksi coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Phyllangia_americana</attrlabl>
+<attrdef>The density or number of each Phyllangia americana coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Porites_astreoides</attrlabl>
+<attrdef>The density or number of each Porites astreoides coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Porites_branneri</attrlabl>
+<attrdef>The density or number of each Porites branneri coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Porites_porites</attrlabl>
+<attrdef>The density or number of each Porites porites coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Pseudodiploria_clivosa</attrlabl>
+<attrdef>The density or number of each Pseudodiploria clivosa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Pseudodiploria_strigosa</attrlabl>
+<attrdef>The density or number of each Pseudodiploria strigosa coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Scleractinia</attrlabl>
+<attrdef>The density or number of each Scleractinia coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Scolymia_cubensis</attrlabl>
+<attrdef>The density or number of each Scolymia cubensis coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Scolymia_lacera</attrlabl>
+<attrdef>The density or number of each Scolymia lacera coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Siderastrea_radians</attrlabl>
+<attrdef>The density or number of each Siderastrea radians coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Siderastrea_siderea</attrlabl>
+<attrdef>The density or number of each Siderastrea siderea coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Solenastrea_bournoni</attrlabl>
+<attrdef>The density or number of each Siderastrea boumoni coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Solenastrea_hyades</attrlabl>
+<attrdef>The density or number of each Solenastrea hyades coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Stephanocoenia_intersepta</attrlabl>
+<attrdef>The density or number of each Stephanocoenia intersepta coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Undaria_agaricites_complex</attrlabl>
+<attrdef>The density or number of each Undaria agaricites complex coral per meter found in each survey station (the counts divided by 10 which is the total area surveyed in meters for each station)</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+<attr>
+<attrlabl>Date</attrlabl>
+<attrdef>Date of survey.</attrdef>
+<attrdefs>FWC-FWRI</attrdefs>
+</attr>
+</detailed>
+<overview>
+<eaover>Benthic type values are a percent composition of the total survey area.</eaover>
+<eadetcit>CREMP</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</cntorg>
+<cntper>GISLibrarian</cntper>
+</cntorgp>
+<cntpos>GIS Data Librarian</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>Fish and Wildlife Research Institute</address>
+<address>100 Eighth Avenue Southeast</address>
+<city>St. Petersburg</city>
+<state>Florida</state>
+<postal>33701</postal>
+</cntaddr>
+<cntvoice>727-896-8626</cntvoice>
+<cntfax>727-893-1679</cntfax>
+<cntemail>GISLibrarian@MyFWC.com</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Users can download the CREMP, SECREMP, and DTCREMP geodatabases from https://geodata.myfwc.com.</resdesc>
+<distliab>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>SHP</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<accinstr>Users can download the CREMP, SECREMP, and DTCREMP geodatabases from https://geodata.myfwc.com.</accinstr>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>None. However, persons or organizations requesting information must provide transfer media (CD-ROM only) if FTP is not available and must pay express shipping costs if express shipping is required.</fees>
+<ordering>Contact GIS Librarian by e-mail, telephone, or letter explaining which products are needed and providing a brief description of how the products will be used. Also, provide name and address of the person or organization requesting the products.</ordering>
+<turnarnd>Usually within 10 business days, although, complex requests may take longer</turnarnd>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20230719</metd>
+<metfrd>20230815</metfrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</cntorg>
+<cntper>GISLibrarian</cntper>
+</cntorgp>
+<cntpos>GIS Data Librarian</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>Fish and Wildlife Research Institute</address>
+<address>100 Eighth Avenue Southeast</address>
+<city>St. Petersburg</city>
+<state>Florida</state>
+<postal>33701</postal>
+</cntaddr>
+<cntvoice>727-896-8626</cntvoice>
+<cntfax>727-893-1679</cntfax>
+<cntemail>GISLibrarian@MyFWC.com</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac>No restrictions on metadata</metac>
+<metuc>Metadata must be distributed with the data set.</metuc>
+<metsi>
+<metscs>FWRI-MC</metscs>
+<metsc>Unclassified</metsc>
+<metshd>Metadata must be distributed with the data set.</metshd>
+</metsi>
+</metainfo>
+</metadata>
