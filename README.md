@@ -50,12 +50,6 @@ _All visuals are exported in the `/outputs` directory and used in the final repo
 
 ---
 
-## 📄 Final Report
-
-A comprehensive, non-technical [PDF Report](./Florida_Keys_Coral_Report.pdf) is included to explain findings to stakeholders, policy-makers, and non-data experts.
-
----
-
 ## 🧠 Insights & Recommendations
 
 - **Temperature Rise** significantly impacts coral cover—monitoring is essential.
